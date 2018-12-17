@@ -1,0 +1,23 @@
+{
+    "DeviceList": "设备列表",
+    "FenceList": "电子围栏",
+    "VehicleList": "车辆列表",
+    "ApprovalList": "安装审核",
+    "AccountList": "账号",
+    "Company": "公司",
+    "RoleList": "角色",
+    "EventList": "事件",
+    "EmergencyList": "紧急",
+    "FenceEventList": "围栏事件",
+    "LogList": "数据日志",
+    "StatisticsBasic": "基本",
+    "StatisticsDevice": "设备",
+    "Vehicle": "车辆",
+    "TravelLog": "行程日志",
+    "Statistical": "统计",
+    "User": "用户",
+    "Show": "展现",
+    "Management": "管理",
+    "ManagementInternal": "内部管理",
+    "Global": "全局"
+}

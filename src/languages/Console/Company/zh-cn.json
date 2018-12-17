@@ -1,0 +1,15 @@
+{
+    "add_company": "添加公司",
+    "serial": "序列号",
+    "name": "公司名称",
+    "type": "公司类型",
+    "address": "公司地址",
+    "contact": "联系方式",
+    "created_at": "创建时间",
+    "input_name": "请输入公司名称",
+    "choose": "请选择",
+    "city": "所属城市",
+    "input_city": "请输入城市",
+    "input_contact": "请输入联系方式",
+    "input_address": "请输入地址"
+}

@@ -1,0 +1,38 @@
+{
+    "to": "至",
+    "starttime": "开始时间",
+    "endtime": "结束时间",
+    "eventtype": "事件类型",
+    "gpsnotice": "这个事件有GPS信息",
+    "triggertime": "触发时间",
+    "type": "类型",
+    "operate": "操作",
+    "detail": "详情",
+    "no": "序号",
+    "speed": "速度",
+    "eventType": "事件类型",
+    "driverName": "司机名",
+    "driverMobile": "司机电话",
+    "noaddress": "无法获取当前位置",
+    "useType": "使用类型",
+    "NORMAL": {
+        "20": "急加速",
+        "21": "急刹车",
+        "22": "急转弯",
+        "1": "停驶<10分钟",
+        "2": "停驶10-15分钟",
+        "3": "停驶15-30分钟",
+        "4": "停驶>30分钟",
+        "50": "电子围栏 - 进入",
+        "51": "电子围栏 - 离开"
+    },
+    "EMERGENCY": {
+        "23": "碰撞",
+        "32": "用户报警"
+    },
+    "speedOver": {
+        "speed": "当前时速",
+        "speedLimit": "当前限速",
+        "speedOverhead": "超速比例"
+    }
+}

@@ -1,0 +1,203 @@
+.hb-icon {
+  background: url(./assets/icon.png);
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+}
+
+.hb-icon-message {
+  background: url(./assets/message-icon.png);
+  display: inline-block;
+  height: 21px;
+  width: 16px;
+}
+
+.hb-icon-map {
+  background-position: 0px 0px;
+}
+
+.hb-icon-map-active {
+  background-position: -16px 0px;
+}
+
+.hb-icon-list {
+  background-position: 0px -16px;
+}
+
+.hb-icon-list-active {
+  background-position: -16px -16px;
+}
+
+.hb-icon-event {
+  background-position: 0px -32px;
+}
+
+.hb-icon-event-active {
+  background-position: -16px -32px;
+}
+
+.hb-icon-emergency {
+  background-position: 0px -48px;
+}
+
+.hb-icon-emergency-active {
+  background-position: -16px -48px;
+}
+
+.hb-icon-chart {
+  background-position: 0px -64px;
+}
+
+.hb-icon-chart-active {
+  background-position: -16px -64px;
+}
+
+.hb-icon-aim {
+  background-position: 0px -80px;
+}
+
+.hb-icon-aim-active {
+  background-position: -16px -80px;
+}
+
+.hb-icon-grid {
+  background-position: 0px -96px;
+}
+
+.hb-icon-grid-active {
+  background-position: -16px -96px;
+}
+
+.hb-icon-device-list {
+  background-position: 0px -112px;
+}
+
+.hb-icon-device-list-active {
+  background-position: -16px -112px;
+}
+
+.hb-icon-vehicle-list {
+  background-position: 0px -128px;
+}
+
+.hb-icon-vehicle-list-active {
+  background-position: -16px -128px;
+}
+
+.hb-icon-firmware-list {
+  background-position: 0px -144px;
+}
+
+.hb-icon-firmware-list-active {
+  background-position: -16px -144px;
+}
+
+.hb-icon-user {
+  background-position: 0px -160px;
+}
+
+.hb-icon-user-active {
+  background-position: -16px -160px;
+}
+
+.hb-icon-company {
+  background-position: 0px -176px;
+}
+
+.hb-icon-company-active {
+  background-position: -16px -176px;
+}
+
+.hb-icon-role {
+  background-position: 0px -192px;
+}
+
+.hb-icon-role-active {
+  background-position: -16px -192px;
+}
+
+.hb-icon-collapse-open {
+  background-position: 0px -208px;
+}
+
+.hb-icon-collapse-close {
+  background-position: -16px -208px;
+}
+
+.el-menu-item.is-active {
+  .hb-icon-map {
+    @extend .hb-icon-map-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-list {
+    @extend .hb-icon-list-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-event {
+    @extend .hb-icon-event-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-emergency {
+    @extend .hb-icon-emergency-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-chart {
+    @extend .hb-icon-chart-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-aim {
+    @extend .hb-icon-aim-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-grid {
+    @extend .hb-icon-grid-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-device-list {
+    @extend .hb-icon-device-list-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-vehicle-list {
+    @extend .hb-icon-vehicle-list-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-firmware-list {
+    @extend .hb-icon-firmware-list-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-user {
+    @extend .hb-icon-user-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-company {
+    @extend .hb-icon-company-active
+  }
+}
+
+.el-menu-item.is-active {
+  .hb-icon-role {
+    @extend .hb-icon-role-active
+  }
+}

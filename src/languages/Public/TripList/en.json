@@ -1,0 +1,17 @@
+{
+    "driver": "Driver",
+    "to": "To",
+    "starttime": "Start time",
+    "endtime": "End time",
+    "notfinished": "Trip is undertaking",
+    "kilometre": "KM",
+    "driving": "Vehicle is on move",
+    "nodata": "Data is not available of the trip",
+    "tips": "Tips",
+    "sure": "Confirm",
+    "merge": "Merge view",
+    "mergeAlert": "Merge View Was Limited 7 Days",
+    "countLimit": "100 Trips Was Limited",
+    "illegalRequest": "Query Params Illegal Or Limited 7 Days Interval ",
+    "noAddress": "No GPS Data"
+}

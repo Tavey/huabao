@@ -1,0 +1,38 @@
+{
+    "to": "To",
+    "starttime": "Start time",
+    "endtime": "End time",
+    "eventtype": "Event type",
+    "gpsnotice": "GPS is available",
+    "triggertime": "Trigger time",
+    "type": "Type",
+    "operate": "Actions",
+    "detail": "Details",
+    "no": "Seq",
+    "speed": "Speed",
+    "eventType": "Event Type",
+    "driverName": "Driver Name",
+    "driverMobile": "Mobile",
+    "noaddress": "Address is not available",
+    "useType": "Use Type",
+    "NORMAL": {
+        "1": "Stopped less than 10 mins",
+        "2": "Stopped 10-15 mins",
+        "3": "Stopped 15-30 mins",
+        "4": "Stopped great than mins",
+        "50": "Enter into fence",
+        "51": "Leave fence",
+        "20": "Harsh acceleration",
+        "21": "Harsh brake",
+        "22": "Sharp turn"
+    },
+    "EMERGENCY": {
+        "23": "Collision",
+        "32": "Alarm signal by user"
+    },
+    "speedOver": {
+        "speed": "Speed",
+        "speedLimit": "Limit",
+        "speedOverhead": "Over"
+    }
+}

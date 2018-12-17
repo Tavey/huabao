@@ -1,0 +1,13 @@
+{
+    "gpsStatus": "GPS",
+    "powerStatus": "Power",
+    "heartBeatStatus": "Heart Beat",
+    "bind": "Bind",
+    "approval": "Approval",
+    "reject": "Reject",
+    "operation": "Action",
+    "isConfirm" : "Confirmed",
+    "isReview": "Reviewed",
+    "selectCompany": "Please choose an organization",
+    "submit": "Submit"
+}

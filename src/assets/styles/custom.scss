@@ -1,0 +1,161 @@
+@import './app.scss';
+
+$Color-Primary1:#409EFF;
+$Color-Primary2: #D9ECFF;
+$Color-Primary3: #EDF5FE;
+$Color-Default:#FFFFFF;
+$Color-Secondary1:#1F2333;
+$Color-Secondary2:#2D354A;
+$Color-Secondary3: #B1B8CA;
+
+$HeadBar-Color: $Color-Secondary2;
+$HeadBar-FontColor: $Color-Secondary3;
+$HeadBar-ActiveColor: $Color-Secondary1;
+$HeadBar-HoverColor: $Color-Secondary1;
+$HeadBar-HoverFontColor: $Color-Default;
+
+
+$SideBar-ActiveBgColor: $Color-Primary3;
+$SideBar-ActiveBorderColor: $Color-Primary1;
+$SideBar-ActiveFontColor: $Color-Primary1;
+
+$Button-IsPlanFontColor: $Color-Primary1;
+$Button-IsPlanBgColor: transparent;
+$Button-IsPlanBorderColor: $Color-Primary1; 
+$Button-IsPlanHoverFontColor: $Color-Default;
+$Button-IsPlanHoverBgColor: $Color-Primary1;
+$Button-IsPlanHoverBorderColor: $Color-Primary1;
+
+$Button-DisableFontColor: $Color-Primary1;
+$Button-DisableBgColor: $Color-Primary3;
+$Button-DisableBorderColor: $Color-Primary2;
+
+
+/* Header*/
+.el-header .el-tag {
+    color: $HeadBar-HoverFontColor;
+    border-color:  $HeadBar-Color;
+    background-color: $HeadBar-Color;
+}
+.el-header .el-menu {
+    background-color: $HeadBar-Color;
+    .el-menu-item.is-active {
+        background-color: $HeadBar-ActiveColor;
+        color: $HeadBar-HoverFontColor;
+    } 
+    .el-menu-item:hover {
+        background-color: $HeadBar-HoverColor;
+        color: $HeadBar-HoverFontColor;
+    }
+    .el-submenu {
+        background-color: $HeadBar-Color;
+        .el-submenu__title {
+           color: $HeadBar-FontColor;
+        }
+    }
+    .el-submenu:hover .el-submenu__title {
+        color: $HeadBar-FontColor;
+        background-color: $HeadBar-HoverColor;
+    }
+}
+.el-menu--horizontal {
+    background-color: $HeadBar-Color;
+    .el-menu-item {
+       color: $HeadBar-FontColor;
+    }
+    .el-menu--popup {
+        background-color: $HeadBar-Color;
+        .el-menu-item{
+            color: $HeadBar-FontColor;
+            background-color: $HeadBar-Color;
+        }
+    }
+}
+
+.el-menu--horizontal .el-menu--popup .el-menu--horizontal .el-menu--popup .el-menu-item:hover{
+    background-color: $HeadBar-HoverColor;
+    color: $HeadBar-HoverFontColor;
+}
+.el-menu--horizontal .el-menu .el-menu-item.is-active, .el-menu--horizontal .el-menu .el-submenu__title.is-active {
+    color: $HeadBar-FontColor;
+}
+.el-menu--horizontal .el-menu-item:not(.is-disabled):focus, .el-menu--horizontal .el-menu-item:not(.is-disabled):hover {
+    background-color: $HeadBar-HoverColor;
+    color: $HeadBar-FontColor;
+}
+
+
+
+/* SideBar*/
+#aside-menu {
+    .el-menu-item.is-active {
+        background-color: $SideBar-ActiveBgColor;
+        border-right: 2px solid $SideBar-ActiveBorderColor;
+        color: $SideBar-ActiveFontColor;
+    }
+    .el-menu-item:focus, .el-menu-item:hover {
+        background-color: $SideBar-ActiveBgColor;
+    }
+}
+
+/* Button*/
+.el-button--primary.is-plain,.el-button.is-active, .el-button.is-plain:active {
+    color: $Button-IsPlanFontColor;
+    background: $Button-IsPlanBgColor;
+    border-color: $Button-IsPlanBorderColor;
+}
+.el-button--primary:hover {
+    background-color: $Button-IsPlanHoverBgColor;
+    color: $Button-IsPlanHoverFontColor;
+    border-color: $Button-IsPlanHoverBorderColor;
+}
+.el-button--primary.is-plain:hover {
+    color: $Button-IsPlanHoverFontColor;
+    background: $Button-IsPlanHoverBgColor;
+    border-color: $Button-IsPlanHoverBorderColor;
+}
+.table-container, .el-form-item__content {
+    .el-button {
+        color: $Button-IsPlanFontColor;
+        background-color: $Button-IsPlanBgColor;
+        border-color: $Button-IsPlanBorderColor;
+        &:hover {
+            color: $Button-IsPlanHoverFontColor;
+            background-color: $Button-IsPlanHoverBgColor;
+            border-color: $Button-IsPlanHoverBorderColor
+        }
+    }
+}
+.el-button--primary.is-plain.is-disabled { 
+    color: $Button-DisableFontColor;
+    background-color: $Button-DisableBgColor;
+    border-color: $Button-DisableBorderColor;
+}
+
+
+
+
+/* EventTab*/
+.tab-container .el-tabs__item.is-active {
+    color: $SideBar-ActiveFontColor;
+}
+
+/* Tag*/
+.el-tag {
+    color: $SideBar-ActiveFontColor;
+    background-color: $SideBar-ActiveBgColor;
+    border-color:  $SideBar-ActiveBorderColor;   
+}
+
+
+
+
+/* VehicleList*/
+ .el-dropdown-menu__item:not(.is-disabled):hover {
+     background-color: $Button-IsPlanHoverBgColor;
+     color: $Button-IsPlanHoverFontColor;
+ }
+ 
+
+
+ 

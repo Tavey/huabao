@@ -1,0 +1,15 @@
+{
+    "duration": "时长",
+    "mileage": "里程(公里)",
+    "averageSpeed": "均速(公里/小时)",
+    "travelInformation": "行程基本信息",
+    "copy": "复制",
+    "plateNum": "车牌号",
+    "driver": "司机",
+    "noData": "N/A",
+    "copySuccess": "复制成功",
+    "loadStatus": "车载状态",
+    "loadEmpty": "空载",
+    "loadFull": "负载",
+    "loadStatusTip": "数据将用作算法学习"
+}

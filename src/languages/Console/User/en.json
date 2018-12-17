@@ -1,0 +1,20 @@
+{
+    "current": "Current Company",
+    "addUse": " New Account",
+    "serial": "Serial No",
+    "user_name": "Account Name",
+    "mobile": "Mobile Phone",
+    "role": "Role",
+    "latest_login_at": "Latest Sign-in Time",
+    "never_login": "Never signed in",
+    "created_at": "Created at",
+    "change_password": "Change password",
+    "input_name": "Please input a name",
+    "choose_role": "Please choose a role",
+    "input_password": "Please input password",
+    "password": "Password",
+    "input_mobile": "Please input phone number",
+    "choose_company": "Please choose an organization",
+    "company_id": "Belong to the organization",
+    "non_platform": "Not created by platform"
+}

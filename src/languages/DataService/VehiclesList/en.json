@@ -1,0 +1,23 @@
+{
+    "nodev": "No device bound",
+    "noneGps": "无位置信息",
+    "unknowntype": "Unknown device type",
+    "position": "Locate",
+    "risk": "Score",
+    "and": "and",
+    "noplatenum": "Plate No is not available",
+    "nodriver": "Driver info is not available",
+    "inputcontent": "Input is required",
+    "choose": "Please choose an item",
+    "trips": "Trips",
+    "refreshAfter": "After Will Refresh Location",
+    "refreshNow": "Waiting for Refreshing Location",
+    "vehicleUseType": {
+        "1": "Passenger vehicle",
+        "2": "Commerial vehicle",
+        "3": "Coach/Bus",
+        "4": "Truck",
+        "5": "Container truck",
+        "6": "Hazardous Chemical Substance Carrier"
+    }
+}

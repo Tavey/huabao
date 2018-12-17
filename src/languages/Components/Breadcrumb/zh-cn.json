@@ -1,0 +1,20 @@
+{
+    "console": "管理控制台",
+    "devices": "设备列表",
+    "fences": "电子围栏",
+    "vehicles": "车辆列表",
+    "users": "账号列表",
+    "companies": "公司列表",
+    "roles": "角色列表",
+    "dataService": "数据服务",
+    "events": "事件列表",
+    "logs": "数据列表",
+    "basic": "基本统计",
+    "device": "设备统计",
+    "trips": "行程列表",
+    "vehiclesTrips": "行程详情",
+    "eventDetails": "事件详情",
+    "position": "实时位置",
+    "approvalList": "审核列表",
+    "riskModel": "风控模型"
+}

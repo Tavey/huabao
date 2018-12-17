@@ -1,0 +1,20 @@
+{
+    "console":"Console",
+    "devices":"Device List",
+    "fences":"Geo Fence",
+    "vehicles":"Vehicle List",
+    "users":"Account ",
+    "companies":"Orgs",
+    "roles":"Role",
+    "dataService":"Data Service",
+    "events":"Event",
+    "logs":"Data Log",
+    "basic":"Basics ",
+    "device":"Device",
+    "trips":"Stroke",
+    "vehiclesTrips":"Trip Details",
+    "eventDetails":"Event Details",
+    "position":"Address",
+    "approval": "Approval List",
+    "riskModel": "Risk Model"
+}

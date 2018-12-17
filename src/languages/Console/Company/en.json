@@ -1,0 +1,15 @@
+{
+    "add_company": " New Org",
+    "serial": "Serial No",
+    "name": "Org name",
+    "type": "Org type",
+    "address": "Address",
+    "contact": "Contact",
+    "created_at": "Created at",
+    "input_name": "Org name is required",
+    "choose": "Please choose an item",
+    "city": "City",
+    "input_city": "Please type in city name",
+    "input_contact": "Please type in contact information",
+    "input_address": "Please type in address"
+}

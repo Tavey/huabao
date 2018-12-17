@@ -1,0 +1,15 @@
+{
+    "statistics": "统计",
+    "driving": "行驶中",
+    "stopped": "停驶中",
+    "allmile": "累计里程 (公里)",
+    "alltime": "累计时间 (小时)",
+    "unusualdev": "非正常设备",
+    "emergency": "紧急事件",
+    "drivestatus":  "停驶/行驶/非正常",
+    "drive": "行驶",
+    "stop": "停驶",
+    "unusual": "非正常",
+    "drivemile": "行驶里程 (公里)",
+    "drivetime": "行驶时间 (小时)"
+}

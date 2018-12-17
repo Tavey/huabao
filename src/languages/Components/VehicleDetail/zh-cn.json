@@ -1,0 +1,19 @@
+{
+    "driverName": "车主姓名",
+    "notSet": "未设置",
+    "driverPhone": "车主电话",
+    "vehicleUseType": "车牌用途",
+    "vehicleBrand": "车牌品牌",
+    "vehicleModel": "车牌型号",
+    "registerTime": "注册时间",
+    "allMile": "总里程",
+    "noData": "无数据",
+    "allAverageTime": "总平均速度",
+    "dayAverageTime": "日均行程数",
+    "deviceType": "设备类型",
+    "hardwareType": "硬件型号",
+    "hardwareVersion": "硬件版本",
+    "deviceTime": "设备激活时间",
+    "firmwareType": "固件版本",
+    "noThing": "无"
+}

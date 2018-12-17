@@ -1,0 +1,93 @@
+
+.is-vertical{
+  background: #f6f7f8
+}
+
+.minwidth{
+  min-width: 1158px;
+}
+.overf{
+  overflow-x: scroll;
+}
+
+
+.box-si{
+  box-sizing: border-box;
+}
+.bor-ra5{
+  border-radius:4px;
+}
+
+
+.collapse_btn{
+  background: #ecedef;
+  button{
+    background: #ecedef;
+  }
+}
+
+.labwidth  .el-form-item__label{
+  width: 100px;
+  color: #979fa6;
+}
+.page{
+  display: flex;
+  flex-flow: column;
+  align-items: stretch;
+  height: 100%;
+  .breadcrumb{
+    flex: 0 1 auto;
+  }
+  .elewrap{
+    flex: 1 1 auto;
+    display: flex;
+    flex-flow: column;
+    align-items: stretch;
+    .tablewrap{
+      flex: 1 1 auto;
+      display: flex;
+      // flex-flow: column;
+      align-items: stretch;
+      .table-container{
+        flex: 1 1 auto;
+        box-sizing: border-box;
+        position: relative;
+        display: flex;
+        flex-flow: column;
+        align-items: stretch;
+        .el-table{
+          flex: 1 1 auto;
+          display: flex;
+          flex-flow: column;
+          align-items: stretch;
+          .el-table__header-wrapper{
+            overflow: initial !important;
+            flex: 0 1 auto;
+          }
+          .el-table__body-wrapper{
+            flex: 1 1 auto;
+          }
+        }
+        .pagination-container{
+          position: absolute;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          z-index: 100;
+          background: #fff;
+        }
+      }
+    }
+  }
+}
+.dialogScroll{
+  height: 100%;
+  width: 100%;
+  .el-dialog{
+    height: 75%;
+    overflow-y: scroll;
+  }
+}
+.amap-info-close{
+  display:none;
+}

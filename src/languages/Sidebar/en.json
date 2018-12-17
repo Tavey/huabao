@@ -1,0 +1,23 @@
+{
+    "DeviceList": "Device List",
+    "FenceList": "Geo Fence",
+    "VehicleList": "Vehicle List",
+    "ApprovalList": "Setup Approval",
+    "AccountList": "Account",
+    "Company": "Organization",
+    "RoleList": "Role",
+    "EventList": "Event",
+    "EmergencyList": "Urgent",
+    "FenceEventList":"Fence",
+    "LogList": "Data Log",
+    "StatisticsBasic": "Basics",
+    "StatisticsDevice": "Device",
+    "Vehicle":"Vehicle",
+    "TravelLog":"TravelLog",
+    "Statistical":"Statistical",
+    "User":"User",
+    "Show": "Shown",
+    "Management": "Management",
+    "ManagementInternal": "Internal Management",
+    "Global": "Global"
+}

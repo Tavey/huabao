@@ -1,0 +1,19 @@
+{
+    "driverName": "Name",
+    "notSet": "Not set",
+    "driverPhone": "Phone",
+    "vehicleUseType": "Vehicle classification",
+    "vehicleBrand": "Brand",
+    "vehicleModel": "Model",
+    "registerAime": "Registered time",
+    "allMile": "Milage",
+    "noData": "Data is not avaliable",
+    "allAverageTime": "Overall avg velocity",
+    "dayaverageTime": "Overall avg trips",
+    "deviceType": "Device type",
+    "hardwareType": "Device model",
+    "hardwareVersion": "Hardware version",
+    "deviceTime": "Activation time",
+    "firmwareType": "Firmware version",
+    "noThing": "N\/A"
+}

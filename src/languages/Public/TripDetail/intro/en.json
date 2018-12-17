@@ -1,0 +1,15 @@
+{
+    "duration": "Duration",
+    "mileage": "Distance(KM)",
+    "averageSpeed": "Avg SPD(KM/H)",
+    "travelInformation": "Trip details",
+    "copy": "Copy ID",
+    "plateNum": "Plate No",
+    "driver": "Driver",
+    "noData": "N/A",
+    "copySuccess": "Copy Success",
+    "loadStatus": "Load Status",
+    "loadEmpty": "Empty",
+    "loadFull": "Full",
+    "loadStatusTip": "Load Status"
+}

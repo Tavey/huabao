@@ -1,0 +1,19 @@
+{
+    "rember": "Save username",
+    "autologin": "Auto sign-in",
+    "login": "Sign in",
+    "policy": "Privacy policy",
+    "huabao": "Ningbo Huabao keep all rights",
+    "terms": "Conditions and terms",
+    "inputname": "Username",
+    "inputpassword": "Password",
+    "disagree": "Disagree",
+    "agree": "Agree",
+    "privacy": {
+        "title": "Privacy policy",
+        "statement": "wait for transalte..."
+    },
+    "chapter": {
+        "title": "1.\u9002\u7528\u8303\u56f4"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "add_role": " Add Role",
+    "role": "角色",
+    "ban": "禁止访问",
+    "access_control": "无权限控制",
+    "has": "有",
+    "rules": "条控制规则",
+    "created_at": "创建时间",
+    "confirm_deletion": "确认删除吗?",
+    "name": "角色名称",
+    "input_name": "请输入名称",
+    "check": "请取消勾选需要禁止的模块"
+}

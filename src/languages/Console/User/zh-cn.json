@@ -1,0 +1,20 @@
+{
+    "current": "当前",
+    "addUse": "添加账号",
+    "serial": "序列号",
+    "user_name": "账号名称",
+    "mobile": "联系方式",
+    "role": "角色",
+    "latest_login_at": "最后登录时间",
+    "never_login": "从未登陆过",
+    "created_at": "创建时间",
+    "non_platform": "非平台创建",
+    "change_password": "修改密码",
+    "company_id": "所属公司",
+    "choose_company": "请选择公司",
+    "input_mobile": "请输入联系方式",
+    "password": "登录密码",
+    "input_password": "请输入密码",
+    "choose_role": "请选择角色",
+    "input_name": "请输入名称"
+}

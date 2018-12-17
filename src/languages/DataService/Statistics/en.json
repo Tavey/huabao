@@ -1,0 +1,26 @@
+{
+    "to": "To",
+    "starttime": "Start time",
+    "endtime": "End time",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "year": "Year",
+    "eventtype": [
+        "Harsh acceleration",
+        "Harsh brake",
+        "Sharp turn",
+        "Speeding",
+        "Collision"
+    ],
+    "drivestatus": "Staying\/In motion\/Improper",
+    "deviceStatus": "Normal/Error Devices",
+    "deviceSetup": "Device Setup",
+    "normal": "Normal",
+    "error": "Error",
+    "drive": "In motion",
+    "stopped": "Staying",
+    "unusual": "Improper",
+    "drivemile": "Mileage",
+    "drivetime": "Time"
+}

@@ -1,0 +1,23 @@
+{
+    "nodev": "无设备",
+    "noneGps": "无位置信息",
+    "unknowntype": "车辆类型未知",
+    "trips": "行程",
+    "position": "位置",
+    "risk": "风控",
+    "and": "和",
+    "noplatenum": "无车牌",
+    "nodriver": "无司机",
+    "inputcontent": "请输入内容",
+    "choose": "请选择",
+    "refreshAfter": "后刷新车辆位置",
+    "refreshNow": "正在刷新车辆位置，请稍后",
+    "vehicleUseType": {
+        "1": "一般乘用车",
+        "2": "运营类乘用车辆",
+        "3": "大型客运车辆",
+        "4": "普通货物运输",
+        "5": "集装箱货物运输",
+        "6": "危化品运输"
+    }
+}

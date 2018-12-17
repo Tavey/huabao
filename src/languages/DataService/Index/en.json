@@ -1,0 +1,15 @@
+{
+    "statistics": "Statistics",
+    "driving": "In motion",
+    "stopped": "Staying",
+    "allmile": "Mileage(KM)",
+    "alltime": "Time(Mins)",
+    "unusualdev": "Improper devices",
+    "emergency": "Urgent events",
+    "drivestatus": "Staying\/in Motion\/Improper",
+    "drive": "In motion",
+    "stop": "Staying",
+    "unusual": "Improper",
+    "drivemile": "Milage(KM)",
+    "drivetime": "Time(Hour)"
+}

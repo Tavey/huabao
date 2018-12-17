@@ -1,0 +1,17 @@
+{
+    "driver": "司机",
+    "to": "至",
+    "starttime": "开始日期",
+    "endtime": "结束日期",
+    "notfinished": "行程未结束",
+    "kilometre": "公里",
+    "driving": "车辆正在行驶",
+    "nodata": "这段行程没有相关数据",
+    "tips": "提示",
+    "sure": "确定",
+    "merge": "合并",
+    "mergeAlert": "合并视图数据显示不大于7天",
+    "countLimit": "该页最多只能显示100条数据",
+    "illegalRequest": "请求参数不合法或超出7天查询限制",
+    "noAddress": "无法获取位置信息"
+}

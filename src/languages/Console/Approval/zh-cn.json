@@ -1,0 +1,13 @@
+{
+    "gpsStatus": "GPS",
+    "powerStatus": "上电状态",
+    "heartBeatStatus": "心跳状态",
+    "bind": "绑定",
+    "approval": "审核",
+    "reject": "拒绝",
+    "operation": "操作",
+    "isConfirm" : "是否已确认",
+    "isReview": "是否已审核",
+    "selectCompany": "请选择公司",
+    "submit": "确认"
+}

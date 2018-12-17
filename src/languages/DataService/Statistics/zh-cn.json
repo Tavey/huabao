@@ -1,0 +1,26 @@
+{
+    "to": "至",
+    "starttime": "开始日期",
+    "endtime": "结束日期",
+    "day": "日",
+    "week": "周",
+    "month": "月",
+    "year": "年",
+    "eventtype": {
+        "0": "急刹车事件",
+        "1": "急加速事件",
+        "2": "急转弯事件",
+        "3": "超速事件",
+        "4": "碰撞事件"
+    },
+    "drivestatus": "停驶/行驶/非正常",
+    "deviceStatus": "正常/非正常设备",
+    "deviceSetup": "设备安装",
+    "normal": "正常",
+    "error": "非正常",
+    "drive": "行驶",
+    "stopped": "停驶",
+    "unusual": "非正常",
+    "drivemile": "行驶里程 (公里)",
+    "drivetime": "行驶时间 (小时)"
+}
